@@ -1,0 +1,15 @@
+[
+  {
+      "id": 1,
+      "slideTitle": "Slide One Title",
+      "slideContent": "Here is the slide one content",
+      "slideCTA": "CTA: Slide One"
+  },
+
+  {
+      "id": 2,
+      "slideTitle": "Slide Two Title",
+      "slideContent": "Here is slide two content",
+      "slideCTA": "CTA: Slide Two"
+  }
+]
